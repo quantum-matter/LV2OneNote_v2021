@@ -5,3 +5,5 @@ By: Rishav Koirala, Quantum Matter Group, Centre for Quantum Technologies, Natio
 How to programatically change OneNote contents with LabView program.
 Based on OAuth example taken from NI website. 
 Requires account to access MS Azure.
+
+Windows 10, LV2019-32bit, MSOffice 2019
